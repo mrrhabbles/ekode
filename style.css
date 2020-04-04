@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+h1 {
+    color:rgb(248, 183, 6);
+    font: outline;
+    position: center;
+    padding-left: 40%;
+    padding-top: 30%;
+}
