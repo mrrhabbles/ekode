@@ -1,2 +1,2 @@
 # ekode
-Landing Page
+Landing Page for site visitors
